@@ -8,5 +8,6 @@ resources/
 # dist/
 */www/
 package-lock.json
+ng-package.json
 yarn.lock
 
